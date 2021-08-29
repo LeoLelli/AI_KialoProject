@@ -1,0 +1,175 @@
+Discussion Title: Should fake news be illegal?
+
+1. Fake news should be illegal.
+1.1. Con: If fake news is made illegal the government will control the media instead of influencing it.
+1.1.1. Pro: We could have little or no idea of world events.
+1.1.1.1. Con: There is no obvious reason why democratic government would seek to hide world events.
+1.1.2. Pro: We could go from a democracy to a dictatorship without realizing it.
+1.1.2.1. Pro: [Freedom of the press](https://www.abajournal.com/magazine/article/free_press_linda_klein) is an essential component of democracy.
+1.1.2.2. Con: Fake news can result in loss of life. Controlling media, in order to prevent deaths, should not be seen as a dictatorship.
+1.1.3. Con: In a democracy the people own the government, so it would be the people's choice to outlaw misinformation.
+1.1.3.1. Con: Even in democratic countries, governments make decisions against people's will.
+1.1.4. Con: A ban does not generate content, so the government will be unchanged in their position to create news.
+1.1.5. Con: In many jurisdictions, the judiciary rather than the government applies the law. As a result, the courts can interpret the law in a way to uphold freedom of the press as far as possible.
+1.1.5.1. Con: The ease with which the courts can interpret a law criminalising fake news will depend on how precisely the legislation is drafted.
+1.1.5.1.1. Con: The courts have no role in the government's legislative process. Therefore, if the government wants to draft anti-fake news laws that serve its own interests, then there is little the courts can do.
+1.1.5.2. Pro: It is not possible for the government to take action on the media, but, for example, an imparcial 'jury', constituted by journalists who must not work for any other organization nor get paid by anyone else, could do it. The separation of power could be made just as it is made nowadays with the judiciary \(they would need to follow rules stated by a different organization, etc.\). Political parties should spread fact checked and non-biased information to support their proposals, too.
+1.1.6. Con: Many governments already [control the media](https://cpj.org/2015/04/10-most-censored-countries.php) through direct or indirect means. This indicates that fake news becoming illegal would not change the status quo.
+1.1.6.1. Con: [Whenever governments get involved in policing the media](https://theconversation.com/governments-are-making-fake-news-a-crime-but-it-could-stifle-free-speech-117654), even for the best intended reasons, there is always the possibility of corruption and a reduction in genuine free speech.
+1.1.6.2. Con: The governments that currently control the media are corrupt.
+1.1.6.3. Pro: The Chinese central government [frequently cracks down](https://www.cfr.org/backgrounder/media-censorship-china) on the freedom of its media.
+1.2. Pro: Fake news can be deadly and harmful to one's health.
+1.2.1. Pro: There are many fake and misleading news stories related to medical treatments and major diseases like [Covid-19](https://www.standard.co.uk/tech/fake-news-coronavirus-spreading-online-a4432601.html), cancer or diabetes. Trusting these false stories could lead people to make decisions that may be harmful to their health.
+1.2.1.1. Pro: Indeed it has happened with [disinfectant](https://www.bbc.com/news/world-us-canada-52407177) and it lead to hundreds of people being admited to [hospitals](https://www.bbc.com/news/world-53755067)
+1.2.2. Con: People are likely to confirm news from multiple sources if it's an issue related to their health. Therefore, they are likely to find the correct information.
+1.2.2.1. Con: It's common for several news sources to post the same false information.
+1.2.2.2. Con: For the people who are not resourceful or for people who are loyal to one news station it will still be a problem.
+1.2.2.3. Con: It goes against human nature to look for further evidence when we have been told something by a source in which we trust.
+1.2.3. Pro: The government is responsible for limiting the harmful consequences of fake news on public health.
+1.2.3.1. Con: In a liberal society, private citizens should be free to decide how they manage their own health.
+1.2.3.1.1. Con: Private citizens ARE free to decide how they manage their own health, but we shouldn't too get rid of hospitals.
+1.2.3.1.2. Con: One citizen's risk-taking does not exist in a vacuum; it can harm the health of others too. They should not be free to harm others.
+1.3. Pro: Fake news can incite social disharmony and violence.
+1.3.1. Pro: Some people have committed crimes based on fake news.
+1.3.1.1. Pro: In 2016, a gunman [opened fire on a pizzeria](https://www.vox.com/policy-and-politics/2016/12/5/13842258/pizzagate-comet-ping-pong-fake-news) because he believed that Hillary Clinton and John Podesta were running a child sex ring in the basement. This was based on an entirely false conspiracy theory.
+1.3.1.1.1. Con: Nobody was harmed in this attack, so it is not a good example.
+1.3.1.2. Con: If people commit crime as a result of what they read in the news, then there is no need to ban fake news because people can simply be punished for the crime itself.
+1.3.1.2.1. Con: You could say the same of murder, and murderers then being punished for the crime itself. The idea is to prevent the crime from being committed in the first place.
+1.3.1.2.1.1. Pro: It is cheaper to prevent crimes from being committed in the first place because there will be no police investigation, trial, or prison stay to fund.
+1.3.1.2.1.1.1. Con: The point at which a crime should be prevented is before the act, but not after the speech or in this instance the publication of fake news.
+1.3.1.2.1.2. Pro: It would be morally wrong not to prevent murder just because the defendant could be punished for it after the fact; death and human suffering cannot be undone.
+1.3.1.2.1.3. Con: Preventing fake news is not directly analogous to preventing crime because only in very rare circumstances will fake news cause someone to commit a crime.
+1.3.1.2.1.3.1. Pro: Even if there is possibility of decreasing crime rate by 0.001% by the idea of preventing fake news then it's worth it.
+1.3.1.2.1.3.1.1. Con: The total amount of fake news articles in circulation is far greater than the select few that would actually be relevant to that 0.001% decrease.
+1.3.1.2.1.3.1.1.1. Pro: Preventing \(making illegal\) all fake news is too broad of a measure to tackle a problem that requires more precision.
+1.3.1.3. Pro: Many businesses have received [threats](https://www.marubeni.com/en/insight/potomac/backnumber/19.html) from people who believed in fake news.
+1.3.1.3.1. Con: The blame is on those actually making the threats, not on those merely believing in the fake news, even less on the fake news articles and writers themselves.
+1.3.1.4. Pro: [Acts of terrorism](https://www.splcenter.org/hatewatch/2018/07/20/terrorism-suspect-makes-reference-extremist-conspiracies) have been performed due to the conspiracy theory known as QAnon.
+1.3.2. Con: Even if there was a ban, there would still be social disharmony and violence because social disharmony and violence also exist in societies that do heavily regulate news and/or ban fake news.
+1.4. Con: Many legal systems already contain laws that can be used against fake news if needed.
+1.4.1. Con: It is harder to prove such laws against fake news.
+1.4.1.1. Con: Difficulty is good counterweight to anyone trying to punish freedom of speech.
+1.4.1.1.1. Con: Difficulty is also a good counterweight to anyone trying to push fake news.
+1.4.2. Pro: Defamation is a good example - false claims against someone - is already illegal under most systems.
+1.4.3. Con: Most of these laws predate the explosion of social media platforms and the mass fake news spread on them. They should be updated to include specific laws to remove any financial incentive: if you sell ads next to fake news content you should be liable for it, and if you make or accept a payment to spread fake news you should be liable.
+1.4.4. Con: There are no laws requiring accredited news media to reveal all sources for independent confirmation \(scientific method\) which makes all news media, other than outlets which only publish scientific studies, unreliable .
+1.4.5. Pro: Making false statements is already [illegal](https://en.wikipedia.org/wiki/Making_false_statements). Allowing newspeople to make false statements would be inconsistent with law
+1.5. Con: There are better ways to deal with fake news than criminalization.
+1.5.1. Pro: Fake News should be handled by properly enforcing existing libel and slander laws.
+1.5.2. Pro: Instead of banning fake news, individuals should be taught to be better at critical analysis of sources and information.
+1.5.2.1. Con: Individuals are supposed to be taught a lot of things, but it will take many years for it to be properly implemented. This doesn't mean that fake news should not be made illegal.
+1.5.2.1.1. Pro: Fake news will continue to affect student grades for many years.
+1.5.2.1.1.1. Pro: Students are required to use quality sources of information for research assignments and papers. If a student uses sources that have false or misleading information, they may get a lower grade.
+1.5.2.1.1.1.1. Con: This assumes that their getting a lower grade for using false or misleading information is unfair. Yet if they use poor quality evidence, it is entirely reasonable for that to be reflected in their grade.
+1.5.2.1.1.1.2. Pro: Such information is specifically important for students who are pursuing a degree in political science or media.
+1.5.2.1.1.2. Pro: Students are usually [unable to differentiate](https://www.amle.org/BrowsebyTopic/WhatsNew/WNDet/TabId/270/ArtMID/888/ArticleID/848/Fact-or-Fiction-Fake-News-and-its-Impact-on-Education.aspx) fact from fiction. This means that they might end up using fake news sources without realizing.
+1.5.2.1.1.3. Con: Students could be [taught in school](https://www.amle.org/BrowsebyTopic/WhatsNew/WNDet/TabId/270/ArtMID/888/ArticleID/848/Fact-or-Fiction-Fake-News-and-its-Impact-on-Education.aspx?) how to identify fake news to avoid it impacting their grades.
+1.5.2.1.2. Pro: Seeing as most people are no longer in a government-run schooling system, there is no quick and easy way for the government to educate the adult population about fake news.
+1.5.2.1.3. Pro: The ability to critically analyse sources and information requires individuals to have [substantial contextual knowledge](https://blogs.lse.ac.uk/impactofsocialsciences/2017/01/26/why-students-should-not-be-taught-general-critical-thinking-skills/) about the intricacies of fake news, such as deep fake images. This level of knowledge will take years to hone.
+1.5.2.2. Pro: Educational systems should prepare people for the real world. Critical thinking and media literacy are crucial for modern society.
+1.5.2.3. Con: Even people who've learned critical thinking skills may tend to apply them only to claims they disagree with, this making them even more biased rather than less.
+1.5.2.3.1. Pro: One study found that smarter people can be even more vulnerable to believing certain ideas because their greater brainpower allows them to [rationalise their \(incorrect\) beliefs](https://www.theguardian.com/books/2019/apr/01/why-smart-people-are-more-likely-to-believe-fake-news).
+1.5.2.3.2. Pro: People with [higher levels of political sophistication](https://fbaum.unc.edu/teaching/articles/AJPS-2006-Taber.pdf) have a more pronounced disconfirmation bias against political points that are inconsistent with their own, and a confirmation bias in favor of their own political positions. This is known 'motivated reasoning'. \(p. 755\)
+1.5.2.4. Con: Fake news can "drown out" valid news, making it harder to find useful information. Critical thinking is hard work; when there's too much fake news to deal with, even people who think critically may run out of energy to analyze everything, and are more likely to believe the fake news.
+1.5.2.5. Con: Some places will probably refuse to teach critical thinking, like religious schools.
+1.5.2.6. Con: The bulk of people will always choose the path of least effort, not applying critical thinking even if it is taught to them.
+1.5.2.7. Con: Some forms of fake news, such as videos created using [Deep Fake technology](https://en.wikipedia.org/wiki/Deepfake), can be indistinguishable from reality and make critical analysis very hard.
+1.5.2.8. Con: Revelations are not always able to sway the opinions of those who believed the false information.
+1.5.2.8.1. Pro: Humans are [psychologically ill-adjusted to changing their minds](https://jamesclear.com/why-facts-dont-change-minds) even when presented with the facts.
+1.5.2.8.1.1. Pro: What people believe is more [heavily linked to how they are perceived](https://jamesclear.com/why-facts-dont-change-minds) for believing it than whether it is objectively correct.
+1.5.2.8.1.2. Pro: The number of people who believe X is directly proportional the number of times they have heard it. This is known as [Clear's Law of Recurrence](https://jamesclear.com/why-facts-dont-change-minds). Therefore, people absorb information more than they reason with its factual accuracy.
+1.5.2.9. Con: Fact-checking and warnings of misinformation [undermine the credibility of valid news sources](https://link.springer.com/article/10.1007/s11109-020-09597-3), thereby leading people to discard useful information.
+1.5.2.9.1. Con: The discardment of some valid fringe sources could be a worthy cost for removing erroneous information.
+1.5.2.9.2. Con: Part of better education around critical analysis should involve a better appreciation and understanding of factchecking.
+1.5.2.9.2.1. Pro: Factcheckers are themselves considered sources of information.
+1.5.2.10. Pro: Simply banning fake news does not prevent the spread of fake news amongst individuals, small groups, or in an illegal manner.
+1.5.2.10.1. Con: Making fake news illegal would encourage content creators to fact-check more comprehensively to avoid falling foul of the law. As a result, the proliferation of fake news will be reduced.
+1.6. Con: Making fake news illegal can pose a threat to human rights.
+1.6.1. Pro: Policing and enforcing anti-fake news laws could threaten privacy rights.
+1.6.1.1. Pro: [Singapore's anti-fake news laws](https://www.bbc.co.uk/news/world-asia-48196985) give authorities sweeping powers to police online platforms and private chat groups.
+1.6.1.2. Pro: Fake news frequently spreads through [private online conversations](https://www.washingtonpost.com/business/economy/on-whatsapp-fake-news-is-fast--and-can-be-fatal/2018/07/23/a2dd7112-8ebf-11e8-bcd5-9d911c784c38_story.html).
+1.6.1.3. Con: Anti-fake news laws could be drafted in a way that adequately protects privacy rights.
+1.6.1.3.1. Pro: Fake news could be criminalised only when it is shared publicly.
+1.6.2. Pro: People have the freedom of expression to spread whatever information they want.
+1.6.2.1. Con: Rights should not be exercised at the expense of others rights.
+1.6.2.1.1. Con: Fake news only has the potential to violate someone's rights if it is believed, such as inciting violence. But believing it is a choice made by the listener rather than the speaker. Therefore, it is unreasonable to curtail the speaker's rights because of the listener's decisions.
+1.6.2.1.1.1. Con: This type of argument seeks to remove responsibility from people that deceive and mislead other people, and instead blame the victim.
+1.6.2.1.1.1.1. Pro: If you spread a rumor \(defamation\), you are responsible for it and not \(necessarily\) those who believed you.
+1.6.2.1.1.1.2. Pro: Someone who uses deception to scam a victim is the only one responsible for it, and not the victim for falling into the trap.
+1.6.2.1.1.2. Con: The speaker intends and makes effort to be believed. Its success depends greatly on how much effort is put in. The listener should not be blamed for the speaker's effort.
+1.6.2.1.1.2.1. Con: This reasoning does not match the way in which the law attributes criminal responsibility; the person who pulls the trigger \(here, the listener\) is treated as far more blameworthy than the person who told them to \(here, the speaker\), irrespective of how persuasive the speaker is.
+1.6.2.2. Pro: One's freedom of expression should not be curtailed just because of the irresponsibility or naiveté of some in believing it as factually sound.
+1.6.2.2.1. Con: This suggests that people who believe fake news are at least partially blameworthy. However, some people are particularly susceptible to believing fake news at no fault of their own.
+1.6.2.2.1.1. Con: This in no way suggests that the blame should be shifted back to fake news. Those people who are susceptible in such ways would benefit from education in critical thinking and critical analysis of sources and information.
+1.6.2.3. Con: Freedom of expression is not an absolute right.
+1.6.2.3.1. Pro: Both slander and libel are examples of when freedom of expression is not one's absolute right.
+1.6.2.3.2. Pro: In the UK, [Article 10](https://www.libertyhumanrights.org.uk/right/freedom-of-expression/) of the [Human Rights Act 1998](https://www.equalityhumanrights.com/en/human-rights/human-rights-act) stipulates that freedom of expression can be limited for public policy reasons provided it is necessary, proportionate, and covered by law.
+1.6.2.3.2.1. Pro: One public policy reason covered by Article 10 is to protect [public health](https://www.libertyhumanrights.org.uk/right/freedom-of-expression/). Fake news can often endanger public health.
+1.6.2.3.3. Con: There are very few limitations on the [First Amendment right](https://www.democracyandme.org/does-free-speech-have-limitations/) to free speech in the US.
+1.6.3. Con: Exposure to fake news from governments conflicts with our [human right to information](https://www.transparency.org/en/our-priorities/right-to-information). We are not able to demand accountability from governments, participate in public life, or fight corruption if we are being misinformed with fake news.
+1.6.3.1. Pro: It should be illegal for people in key roles to create or spread fake news. Politicians, journalists, and influential people have a greater responsibility and must be held accountable.
+1.7. Con: People should be allowed to critically assess whether news is fake or not. Verifying news through institutions prevents people from developing such critical abilities.
+1.8. Con: Some judicial control already exists and should be necessary to set limits and punish surpassers, especially on the new social network machinery, but also on proven harmful products. [This article full of examples of post-truth cases from Coca Cola to religions.](https://www.theguardian.com/culture/2018/aug/05/yuval-noah-harari-extract-fake-news-sapiens-homo-deus)
+1.9. Con: It is very difficult to curb the production of fake news.
+1.9.1. Pro: Objective truth is unattainable, so it would be impossible for anti-fake news laws to properly identify fake news.
+1.9.1.1. Con: Objective truth doesn't have to be attainable as long as sources are cited and the appropriate distinctions are made between inferences, potentialities, opinions, etc.
+1.9.1.2. Con: Objective truth may be philosophically unattainable, depending on your school of thought, but we can admit the existence of facts based on enough evidence. In fact, most judicial systems work on the assumption of the existence of objective truth, without which the exercise of law becomes impossible. For example, [someone saying that they enacted a piece of legislation that has, in fact, been enacted by another government](https://apnews.com/375515aecedb4aed949e4f2eb9c54eb6), can be said to be factually wrong.
+1.9.2. Pro: It is unlikely that anti-fake news laws will be enforced consistently or fairly.
+1.9.2.1. Pro: The law will be [misused](https://www.cnn.com/2019/11/29/media/singapore-fake-news-facebook-intl-hnk/index.html) to shut down critics and clamp down on opinions or information critical of the government.
+1.9.2.1.1. Con: Without the law, fake news will be used to discredit those critics and slander institutions in search of truth. Fake news will be used to shield the government's poor actions and hide negligence.
+1.9.2.1.1.1. Con: Since the government is enforcer of any fake news laws, it is unlikely to enforce those laws if that would be inconvenient for the government \(so it's unlikely to protect whistleblowers from fake news\).
+1.9.2.2. Pro: If this law is not administered correctly, then it could lead to innocent people going to jail or getting fined.
+1.9.2.2.1. Pro: Satire is often confused for ‘fake news’.
+1.9.2.2.1.1. Pro: People tend to confuse satire sites for news publications so much, that there is a [term for it: Eating The Onion.](https://www.urbandictionary.com/define.php?term=Ate%20the%20Onion)
+1.9.2.2.1.2. Con: Prohibiting fake news would solve this problem.
+1.9.2.2.1.2.1. Con: Prohibiting fake news would also mean prohibiting satire.
+1.9.2.2.1.2.1.1. Pro: A fake news ban may also blanket ban satire.
+1.9.2.2.1.2.1.2. Pro: Law enforcement may fail to appreciate the difference between satire and fake news.
+1.9.2.2.1.2.2. Pro: Anti-fake news laws could be drafted in a way that explicitly distinguishes fake news from satire.
+1.9.2.2.1.2.2.1. Con: Distinguishing fake news and satire would not be easy because satire is a form of humour, which is highly subjective and therefore hard to pin down definitionally.
+1.9.2.2.2. Con: This is no different than any other law. We are always going to be attempting to enforce laws more effectively, but the difficulty in doing so doesn't relieve us of the obligation to try to. Example: Sexual Assault Claims
+1.9.2.2.3. Pro: A person could claim that something is fake news even though it is real.
+1.9.2.3. Con: Most legal systems have a number of checks and balances to ensure consistency and fairness.
+1.9.2.3.1. Pro: Many jurisdictions have an appeals process.
+1.9.2.4. Pro: Partisans use the term ‘fake news’ to [discredit](https://www.tandfonline.com/doi/full/10.1080/23808985.2019.1602782) opposing media sources.
+1.9.2.4.1. Con: The misuse of the term new does not apply to the ban.
+1.9.2.4.1.1. Con: Although misuse of the term is not squarely the fault of a decision to ban fake news, the decision to ban it should still be evaluated pragmatically. This includes considering the likelihood and potential harm of it being misused and misapplied.
+1.9.2.4.1.2. Pro: If a defendant is prosecuted for spreading fake news based on a misapplication of the term, then the defendant would have grounds to appeal it.
+1.9.2.4.2. Pro: The current POTUS, Donald Trump, has called institutions that disagree with or criticize him [‘fake news’](https://www.youtube.com/watch?v=Vqpzk-qGxMU).
+1.10. Pro: Fake news is a threat to democracy.
+1.10.1. Con: -> See 1.9.2.1.
+1.10.2. Con: Democracy is dependant on free speech and access to information. If you allow government to censor information, you can’t have proper democracy. People need to think critically and view multiple news sources objectively if they want democracy. Democracy can’t exist if one side of the debate is being censored. In a true democracy, you must debate your opponent, not censor them.
+1.10.2.1. Con: When 10 news outlets are saying 10 different things, people fall back to whoever says what they want to hear \(CNN, Fox News\). Excess information doesn't promote critical thinking, it exhausts it.
+1.10.2.1.1. Pro: Information overload leads to [cognitive overload](https://medium.com/\@tunikova_k/are-we-consuming-too-much-information-b68f62500089), which impairs critical thinking.
+1.10.2.1.2. Pro: [1 in 5 Americans](https://www.pewresearch.org/internet/2016/12/07/information-overload/) feel they are overloaded with information, suggesting that up to 20% of people may be making poor choices about what to believe.
+1.10.2.2. Con: That's why checks and balances exist. It's not one side being censored, its every side being checked and balanced.
+1.10.3. Pro: An important premise of the institution of democracy is that citizens are capable of [reason](https://www.kofiannanfoundation.org/supporting-democracy-and-elections-with-integrity/annan-commission/post-truth-politics-afflicts-the-global-south-too/). Yet as fake news becomes [increasingly imperceptible](https://www.theguardian.com/technology/2018/nov/12/deep-fakes-fake-news-truth), it makes it almost impossible for citizens to generate reasoned beliefs from the so-called news.
+1.10.3.1. Pro: -> See 1.5.2.7.
+1.10.3.2. Pro: If citizens realise how imperceptible fake news is, they may lose the confidence to participate in [democracy's deliberative process](https://www.britannica.com/topic/deliberative-democracy) altogether.
+1.10.3.3. Pro: [People](https://www.npr.org/sections/thetwo-way/2016/11/23/503129818/study-finds-students-have-dismaying-inability-to-tell-fake-news-from-real) can not tell what news is fake and what news is real. This can create confusion and misunderstanding about important social and political issues.
+1.10.3.3.1. Con: The inability of people to distinguish between fake and non-fake news makes identifying and removing an impossible challenge.
+1.10.3.3.1.1. Con: The identifying and further management of fake news should be done by experts, not by casual readers. The experts would have resources, motivation and/or skills that most readers can't afford.
+1.10.4. Pro: Fake news often spreads political misinformation, which limits the electorate's ability to meaningfully engage in political discourse.
+1.10.4.1. Con: Citizens have access to a vast amount of resources, [especially online](https://www.journalism.co.uk/news/resources-to-help-with-verification/s2/a753949/), to check whether the news is fake or not.
+1.10.4.1.1. Pro: UK independent fact-checking charity [Full Fact provides a free toolkit](https://fullfact.org/toolkit/) to spot misleading content and headlines.
+1.10.4.1.2. Con: The fact that political misinformation spreads so quickly demonstrates that realistically people are not utilising these resources enough.
+1.10.4.1.2.1. Pro: Lawmakers should base their legislative decisions on reality rather than wishful thinking.
+1.10.4.2. Pro: During India's democratic elections in 2019, fake news [increased by 40%](https://qz.com/india/1609763/alt-news-boom-live-on-fake-news-detection-amid-indian-election/).
+1.10.5. Pro: Fake news can manipulate voter turnout.
+1.10.5.1. Pro: In Nigeria's elections, fake news alleged that [violence was taking place at polling stations](https://www.cddwestafrica.org/wp-content/uploads/2019/07/WHATSAPP-NIGERIA-ELECTION-2019.pdf) in certain key seats. This likely had a chilling effect on voter turnout. \(p. 27\)
+1.10.6. Con: James Madison resolved to exclude the people from a direct role in government for this very reason. This is why the U.S. is a Republic and not a [Direct Democracy](https://www.britannica.com/topic/democracy/Democracy-or-republic).
+1.10.6.1. Con: Democracy means the people rule; a republic is the form in which the U.S. people rule. The U.S. is still a democracy.
+1.10.6.2. Con: Although being a republic rather than a direct democracy limits some of the impact of fake news on US democracy, the people still have a role to play by electing their representatives. As such, fake news can still influence and threaten the integrity of US democracy.
+1.10.6.2.1. Pro: People may still vote for their representatives based on fake news.
+1.10.6.2.2. Pro: People may elect representatives who themselves are influenced by fake news.
+1.10.7. Pro: -> See 1.10.3.3.
+1.11. Pro: People are unable to trust the media because they're not honest.
+1.11.1. Con: To say that fake news should be illegal so that people can believe media stories implicitly assumes that people should be legally entitled to credible media. Yet, while credible media is desirable, it should not be a legal right.
+1.11.1.1. Pro: The definition of "credible" would be very difficult to define and thus expose media outlets to legal uncertainty when publishing their stories.
+1.11.1.2. Pro: If the public had a legal right to credible media coverage, then they could sue the media for violating this right. The fear of such class action lawsuits would have a chilling effect on freedom of the press.
+1.11.1.2.1. Con: As mentioned elsewhere, this "fear" is no different than the fear of lawsuits that slanderous/libelous statements can have, yet we allow whatever impact that may have on freedom of speech
+1.11.1.2.2. Con: Our freedom of the press has exceptions like obscenity & child pornography in order to protect people's other rights -- just as the right to credible media coverage would have exceptions protecting freedom of the press.
+1.11.2. Pro: People are forced to make up their own mind about what the truth is which can lead to conflict and conspiracy theories.
+1.11.3. Pro: If fake news were illegal, journalism would be taken more seriously.
+1.11.4. Pro: News media is struggling resorts to sensationalism, because of how social media companies use the attention economy to display ads. As a result news media is finding it challenging to present facts in a way that engages viewers.
+1.11.5. Pro: -> See 1.10.3.3.
